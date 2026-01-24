@@ -82,6 +82,44 @@
                 }
             },
             {
+                "title": "Empresarial, M&A e Mercado de Capitais",
+                "imageSrc": "/modals/empresarial-mercado-cap.png",
+                "content": {
+                    "fullTitle": "Empresarial, M&A e Mercado de Capitais",
+                    "copy": "Atuamos na estruturação, negociação e implementação de operações societárias complexas, combinando visão estratégica, rigor técnico e participação direta dos sócios em todas as etapas. Assessoramos aquisições e vendas de participações, reorganizações e reestruturações societárias, associações, joint ventures e alianças estratégicas, bem como investimentos com fundos de private equity e movimentos de consolidação (inclusive envolvendo companhias abertas). Também oferecemos suporte em contextos sensíveis, como defesas contra aquisições hostis, disputas societárias e ativismo de acionistas, com assessoria próxima à companhia, conselhos de administração e comitês independentes.\n\nNo mercado de capitais, apoiamos emissores e intermediários na estruturação de ofertas e operações reguladas, incluindo IPOs, follow-ons e OPAs, além de emissões e distribuições de valores mobiliários e instrumentos de dívida (como debêntures, CRIs, CRAs, COEs, bonds, notes e DRs). Prestamos consultoria regulatória e de autorregulação (CVM, CMN, ANBIMA, ABVCAP), suporte a fundos e estruturas (FIDC, FIP, FII, FIAGRO, ETFs), e assistência a gestores, administradores, securitizadoras e corretoras, incluindo disclosure contínuo e demandas perante reguladores. Atuamos, ainda, em processos sancionadores, negociações correlatas (inclusive acordos) e iniciativas inovadoras do mercado, como sandbox regulatório e crowdfunding."
+                }
+            },
+            {
+                "title": "Família, sucessões e patrimônio",
+                "imageSrc": "/modals/familiar.png",
+                "content": {
+                    "fullTitle": "Família, Sucessões e Planejamento Patrimonial e Sucessório",
+                    "copy": "Apoiamos nossos clientes em decisões sensíveis e estruturantes, com foco na preservação do patrimônio, estabilidade familiar e segurança jurídica em todas as fases da vida pessoal e empresarial. Nossa atuação alia conhecimento técnico, sensibilidade e experiência na condução de assuntos familiares complexos. Nossos principais produtos e serviços incluem:",
+                    "topics": [
+                        {
+                            "id": "fam-rel-familiares",
+                            "title": "Família e relações familiares:",
+                            "copy": "Atuamos em processos de divórcio consensual e litigioso, constituição, reconhecimento e dissolução de união estável, elaboração de pactos antenupciais e escrituras de convivência, alteração consensual de regime de bens, além de regulamentação de guarda, visitas e regime de convivência. Também assessoramos em ações de alimentos, investigação e negatória de paternidade, interdição e temas correlatos."
+                        },
+                        {
+                            "id": "inventarios-sucessoes",
+                            "title": "Inventários e sucessões:",
+                            "copy": "Prestamos assessoria completa em inventários judiciais e extrajudiciais, arrolamentos, ações de sonegados, anulação de partilhas e pedidos de alvará. Atuamos em todas as etapas, com foco na agilidade e na preservação dos vínculos familiares, inclusive em questões internacionais envolvendo a homologação de sentenças estrangeiras."
+                        },
+                        {
+                            "id": "planejamento-patrimonial-sucessorio",
+                            "title": "Planejamento patrimonial e sucessório: ",
+                            "copy": "Desenvolvemos estruturas jurídicas sob medida para a preservação e a transição organizada do patrimônio familiar, considerando os valores e objetivos da família. Elaboramos testamentos, contratos de doação, antecipação de legítima, constituição de usufruto e direito real de habitação. Também oferecemos suporte completo para reorganizações societárias, estruturação e administração de holdings, acordos entre sócios estruturação patrimonial e sucessória, incluindo bens no Brasil e no exterior."
+                        },
+                        {
+                            "id": "filantropia-legado",
+                            "title": "Filantropia e legado: ",
+                            "copy": "Assessoramos na constituição e governança de entidades sem fins lucrativos, como associações, fundações e institutos, orientando nossos clientes na criação de estruturas perenes que concretizem causas familiares e ampliem o impacto social de seus projetos. Atuamos também na formação de fundos patrimoniais (endowments) e na obtenção de certificações e isenções fiscais."
+                        }
+                    ]
+                }
+            },
+            {
                 "title": "Inteligência Artificial",
                 "imageSrc": "/modals/IA.png",
                 "content": {
@@ -286,36 +324,6 @@
                 }
             },
             {
-                "title": "Família, sucessões e patrimônio",
-                "imageSrc": "/modals/familiar.png",
-                "content": {
-                    "fullTitle": "Família, Sucessões e Planejamento Patrimonial e Sucessório",
-                    "copy": "Apoiamos nossos clientes em decisões sensíveis e estruturantes, com foco na preservação do patrimônio, estabilidade familiar e segurança jurídica em todas as fases da vida pessoal e empresarial. Nossa atuação alia conhecimento técnico, sensibilidade e experiência na condução de assuntos familiares complexos. Nossos principais produtos e serviços incluem:",
-                    "topics": [
-                        {
-                            "id": "fam-rel-familiares",
-                            "title": "Família e relações familiares:",
-                            "copy": "Atuamos em processos de divórcio consensual e litigioso, constituição, reconhecimento e dissolução de união estável, elaboração de pactos antenupciais e escrituras de convivência, alteração consensual de regime de bens, além de regulamentação de guarda, visitas e regime de convivência. Também assessoramos em ações de alimentos, investigação e negatória de paternidade, interdição e temas correlatos."
-                        },
-                        {
-                            "id": "inventarios-sucessoes",
-                            "title": "Inventários e sucessões:",
-                            "copy": "Prestamos assessoria completa em inventários judiciais e extrajudiciais, arrolamentos, ações de sonegados, anulação de partilhas e pedidos de alvará. Atuamos em todas as etapas, com foco na agilidade e na preservação dos vínculos familiares, inclusive em questões internacionais envolvendo a homologação de sentenças estrangeiras."
-                        },
-                        {
-                            "id": "planejamento-patrimonial-sucessorio",
-                            "title": "Planejamento patrimonial e sucessório: ",
-                            "copy": "Desenvolvemos estruturas jurídicas sob medida para a preservação e a transição organizada do patrimônio familiar, considerando os valores e objetivos da família. Elaboramos testamentos, contratos de doação, antecipação de legítima, constituição de usufruto e direito real de habitação. Também oferecemos suporte completo para reorganizações societárias, estruturação e administração de holdings, acordos entre sócios estruturação patrimonial e sucessória, incluindo bens no Brasil e no exterior."
-                        },
-                        {
-                            "id": "filantropia-legado",
-                            "title": "Filantropia e legado: ",
-                            "copy": "Assessoramos na constituição e governança de entidades sem fins lucrativos, como associações, fundações e institutos, orientando nossos clientes na criação de estruturas perenes que concretizem causas familiares e ampliem o impacto social de seus projetos. Atuamos também na formação de fundos patrimoniais (endowments) e na obtenção de certificações e isenções fiscais."
-                        }
-                    ]
-                }
-            },
-            {
                 "title": "Gaming, Gambling, Esports e Apostas Reguladas",
                 "imageSrc": "/modals/bets.png",
                 "content": {
@@ -348,7 +356,7 @@
         "profile": {
             "name": "Maurício Tamer",
             "role": "Sócio",
-            "picture": "/Mauricio_tamer_novo_retrato.jpg",
+            "picture": "/Mauricio_tamer_2026.jpeg",
             "linkedin": "https://www.linkedin.com/in/mauríciotamer/",
             "lattes": "https://lattes.cnpq.br/1292641448156094",
             "bio": "Com 15 anos de experiência nos setores privado, público e na academia, Maurício Tamer procura prestar a melhor assessoria preventiva a clientes em assuntos relacionados a conformidade jurídica, mitigação de riscos e contratos para proteção e escalabilidade ao negócio. Acredita que o resultado eficiente é a melhor conquista.\n\n Com foco nas diversas práticas do Escritório, auxilia os clientes na estruturação e implementação de negócios e a elaboração e revisão dos documentos pertinentes como regulamentos, políticas, avaliações de risco e contratos, treinamentos e estratégias de conscientização e governança corporativa. \n\nAtua também na defesa administrativa e judicial dos interesses dos clientes, sempre prezando por uma abordagem técnica, tática e estratégica.",
@@ -366,7 +374,7 @@
                     "Chambers Partners Brazil: Proteção de Dados (2023-2024)",
                     "The Legal 500: TMT: Tech, Innovation and Digital Business e TMT: Cybersecurity and Data Privacy (2024-2025)",
                     "Best Lawyers: One to Watch Brazil em Intellectual Property Law, Litigation e Privacy and Data Security (2024-2025)",
-                    "Análise Advocacia: Digital (2020-2025); Tecnologia (2022); Compliance, Agricultura e Pecuária, Siderurgia e Mineração (2023/2024) e Seguros (2025)"
+                    "Análise Advocacia: 2020-2026"
                 ]
             }
         }
@@ -403,7 +411,7 @@
             },
             {
                 "title": "Análise Advocacia ",
-                "description": "Digital (2020-2025); Tecnologia (2022); Compliance, Agricultura e Pecuária, Siderurgia e Mineração (2023/2024) e Seguros (2025)",
+                "description": "2020-2026",
                 "img": "/fb-advocacia-700x758.svg"
             }
         ]
